@@ -35,9 +35,9 @@ print("{} in: {} / {}".format(name, city, country))
 
 '''
 Step2:
-latitude = ...
-longitude = ...
-elevation = ...
+latitude = position['latitude']
+longitude = xxx=position['longitude']
+elevation = zzz=position['elevation']
 '''
 
 '''
